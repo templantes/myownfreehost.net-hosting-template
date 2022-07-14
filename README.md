@@ -1,3 +1,3 @@
 # myownfreehost.net-hosting-template
 free reseller myownfreehost.net hosting template
-website-hosting.eu.org
+www.website-hosting.eu.org
